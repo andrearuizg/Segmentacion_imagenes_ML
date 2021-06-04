@@ -3,7 +3,7 @@
 
 </p>
 <p align="center">
-<img src ="./media/readme/MACHINE_LEARNING.gif" alt="Logo" width="1200"/>
+<img src ="./media/readme/MACHINE LEARNING.gif" alt="Logo" width="1200"/>
 </p>
 
 Considering the impact on the world of artificial intelligence and process automation in recent years, semi-autonomous systems have been developed that act responding to signals from their environment. An example is food delivery robots that establish their trajectory from images of their surroundings. To develop a system like this it is necessary to make use of segmentation algorithms trained to recognize obstacles, and to train these algorithms, databases of segmented images corresponding to the environment in which the robot will operate are required.
@@ -34,7 +34,9 @@ The Image Labelling App dependencies, compilation, and configuration are package
 
 The best performance is evidently that of the ANNs.
 
-<h3 align="left"> How to improve those results? </h3>
+---
+
+<h2 align="center"> How to improve those results? </h2>
 
 For image segmentation it is better to use deep learning techniques. The results drastically improve both in the MCC evaluation and in the inference time. This can be evidenced by looking at the results of the project developed by us and available [here](https://github.com/Kiwi-PUJ).
 
