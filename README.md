@@ -13,7 +13,7 @@ To facilitate the image segmentation process, the project based on ML techniques
 ---
 <h3 align="left"> Generation of the dataset </h3>
 
-For the training of the segmentation algorithms, a data set of 40 color images with their respective mask was used. For the training of the models, a file separated by commas is created that contains in each row the information corresponding to each pixel of an image. In the columns of the document the information of the coordinates in X and Y, in R and tetha, the value of each of the color components and the value of the mask at that point is stored. With this, the training dataset is generated, which in total contains 2.621440 data, of which 80% is used to train, while the remaining 20% is used to validate the training.
+For the training of the segmentation algorithms, a data set of 40 color images with their respective mask was used. For the training of the models, a file separated by commas is created that contains in each row the information corresponding to each pixel of an image. In the columns of the document the information of the coordinates in X and Y, in R and tetha, the value of each of the color components and the value of the mask at that point are stored. After this, the data is normalized between -1 and 1 and with this the training data set is generated, which in total contains 2.621440 data, of which 80% is used for training, while the remaining 20% is used to validate the training.
 
 ---
 <h3 align="left"> Results </h3>
