@@ -6,7 +6,7 @@
 <img src ="./media/readme/MACHINE LEARNING.gif" alt="Logo" width="1200"/>
 </p>
 
-[** Click here to access our video **](https://youtu.be/8NVU1Qbw6lw)
+[**Click here to access our video**](https://youtu.be/8NVU1Qbw6lw)
 
 Considering the impact on the world of artificial intelligence and process automation in recent years, semi-autonomous systems have been developed that act responding to signals from their environment. An example is food delivery robots that establish their trajectory from images of their surroundings. To develop a system like this it is necessary to make use of segmentation algorithms trained to recognize obstacles, and to train these algorithms, databases of segmented images corresponding to the environment in which the robot will operate are required.
 
